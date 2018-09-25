@@ -1,37 +1,37 @@
-## Welcome to GitHub Pages
+## 欢迎来到 GitHub 网页
 
-You can use the [editor on GitHub](https://github.com/enaiLusoaix/enaiLusoaix.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+你可以使用 [editor on GitHub](https://github.com/enaiLusoaix/enaiLusoaix.github.io/edit/master/README.md) 在Markdown文件中维护和预览您网站的内容。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+每当您提交此存储库时，GitHub 网页都将运行 [Jekyll](https://jekyllrb.com/) 从Markdown文件中的内容重建站点中的页面。
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Markdown 是一种轻量级且易于使用的语法，用于为您的写作设计样式 它包括的比较简约。
 
 ```markdown
-Syntax highlighted code block
+语法突出显示代码块
 
-# Header 1
-## Header 2
-### Header 3
+#标题 1
+##标题2
+###标题3
 
-- Bulleted
-- List
+- 项目符号- 
+- 目录
 
-1. Numbered
-2. List
+1. 编号
+2. 目录
 
-**Bold** and _Italic_ and `Code` text
+**粗体**和_斜体_和`Code`文本
 
-[Link](url) and ![Image](src)
+[链接](网址) and ![图片](src)
 ```
+有关详细信息，请参阅 [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Jekyll 主题
 
-### Jekyll Themes
+您的页面网站将使用您在自己选择的Jekyll主题中的布局和样式 
+[repository settings(https://github.com/enaiLusoaix/enaiLusoaix.github.io/settings). 该主题的名称保存在Jekyll`_config.yml`配置文件中。
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/enaiLusoaix/enaiLusoaix.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### 支持或联系
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+有页面问题？ 看看我们的 [documentation](https://help.github.com/categories/github-pages-basics/) 要么 [contact support](https://github.com/contact) 我们会帮你整理一下。
