@@ -30,7 +30,7 @@ Markdown 是一种轻量级且易于使用的语法，用于为您的写作设�
 ### Jekyll 主题
 
 您的页面网站将使用您在自己选择的Jekyll主题中的布局和样式 
-[repository settings(https://github.com/enaiLusoaix/enaiLusoaix.github.io/settings). 该主题的名称保存在Jekyll`_config.yml`配置文件中。
+[repository settings (https://github.com/enaiLusoaix/enaiLusoaix.github.io/settings). 该主题的名称保存在Jekyll`_config.yml`配置文件中。
 
 ### 支持或联系
 
